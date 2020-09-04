@@ -1,2 +1,2 @@
 # test00
-repository di test
+repository di test 00
